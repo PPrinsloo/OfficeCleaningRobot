@@ -23,4 +23,4 @@ Prerequisites
 * Navigate to the project directory
 * Build the project by running `go build` from inside the directory.
 
-This will create an executable file in the same directory. You can run the program by typing `./OfficeCleaningRobot` (on Linux/Mac) or ChristmasLights.exe (on Windows).
+This will create an executable file in the same directory. You can run the program by typing `./OfficeCleaningRobot` (on Linux/Mac) or OfficeCleaningRobot.exe (on Windows).
